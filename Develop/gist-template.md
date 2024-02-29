@@ -101,4 +101,4 @@ Look-ahead ((?=...)) and look-behind ((?<=...)) are assertions that check for pa
 
 ## Author
 
-This tutorial was created by [Nicholas Holder](mailto: ngholder@hotmail.com).
+This tutorial was created by Nicholas Holder (mailto: ngholder@hotmail.com).

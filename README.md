@@ -21,6 +21,7 @@ N/A
 [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
 [YouTube](https://www.youtube.com/watch?v=c9HbsUSWilw)
+
 [YouTube](https://www.youtube.com/watch?v=7DG3kCDx53c)
 
 [GitHub Challenge Example](https://github.com/snastacia/Challenge-17-Regex-Tutorial)
