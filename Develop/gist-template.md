@@ -103,4 +103,6 @@ Look-ahead ((?=...)) and look-behind ((?<=...)) are assertions that check for pa
 
 ## Author
 
-This tutorial was created by Nicholas Holder (mailto: ngholder@hotmail.com).
+This tutorial was created by [Nicholas Holder](ngholder@hotmail.com).
+
+[GitHub](https://github.com/nickholder6425/Regex-Tutorial-Challenge-17)
