@@ -81,11 +81,13 @@ The third group ([a-zA-Z]{2,}) represents the TLD part of the email address. It 
 
 ### Bracket Expressions
 
-In the provided regex, [a-zA-Z0-9._%+-] is a bracket expression. It matches any single character that is either a lowercase letter, uppercase letter, digit, or one of the specified special characters. This is used to define the valid characters for the local part of the email address.
+/^#?([a-f0-9]{6}|[a-f0-9]{3})$/
+Matches any character in the square brackets. For example [nN] [oO] matches no, nO, No, and NO. gr[ae]y matches both spellings of the word 'grey'; that is, gray and grey.
 
 ### Greedy and Lazy Match
 
-Greedy matching is the default behavior in regex, where the pattern matches as much as possible. For example, + in + means "one or more," and it will match as many characters as possible. In contrast, lazy or non-greedy matching can be achieved by adding a ? after a quantifier, like +? or *?. However, the provided regex doesn't explicitly use lazy matching.
+/^#?([a-f0-9]{6}|[a-f0-9]{3})$/
+A greedy match tries to match an element as many times as possible. Whereas, a lazy match tries to match an element as few times as possible. In our example we have ? which signifies lazy quantifier. This is referred to a lazy quantifier because it causes the regular expression engine to match as few occurances as possible. We can simply turn this lazy match into a greedy one by adding a ?.
 
 ### Boundaries
 

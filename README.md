@@ -26,8 +26,10 @@ N/A
 
 [GitHub Challenge Example](https://github.com/snastacia/Challenge-17-Regex-Tutorial)
 
+[GitHub Challenge Example](https://gist.github.com/Eric-JG/8375d2e60c676b9f724a0edc7bea0c62#bracket-expressions)
+
 ## Deployment
 
 [GitHub](https://github.com/nickholder6425/Regex-Tutorial-Challenge-17)
 
-[URL]()
+[URL](https://nickholder6425.github.io/Regex-Tutorial-Challenge-17/)
